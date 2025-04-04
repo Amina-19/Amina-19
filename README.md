@@ -5,8 +5,8 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
-I am an secondary student .I'm in the last year of EPET N°12 with orientation in Programing
-* **I am interested in Web designing, Android development, and grafic dising**
+I am a secondary school student. I'm in the last year of EPET N°12 with orientation in Programing
+* **I am interested in Web designing, Android development, and graffic designing**
 - 🌱 I’m currently learning ...
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help 😉<br>

@@ -7,10 +7,10 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 I am a secondary school student. I'm in the last year of EPET N°12 with orientation in Programing
 * **I am interested in Web designing, Android development, and graffic designing**
-- 🌱 I’m currently learning ...
+- 🌱 I’m constantly learning ...
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help 😉<br>
-- Outside tech, I love sports, whatch movies, 🎵 listen to music, and 🌴 explore nature outdoors, facilidad para hablar.
+- Outside tech, I love sports, watch movies, 🎵 listen to music, 🌴 explore nature outdoors and high conversational skills.
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
